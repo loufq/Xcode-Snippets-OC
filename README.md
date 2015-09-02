@@ -3,8 +3,8 @@
 Just a few code snippets I have in my Xcode arsenal. In [dotfiles](http://dotfiles.org/) fashion, I thought it'd be cool to put these out in the ether.
 
 ##1.Code Snippets Location
-
-~/Library/Developer/Xcode/UserData/CodeSnippets
+6+
+/Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/Resources/SystemCodeSnippets.codesnippets
 
 ## Using Snippets
 
